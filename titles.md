@@ -8,4 +8,4 @@
 * 12 Monkeys
 * The Curious Case of Benjamin Button
 
-Update titles for G
+Update titles for G8
